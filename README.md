@@ -1,4 +1,4 @@
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiaton&show_icons=true&theme=radical)
+[![Eiaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiaton)](https://github.com/anuraghazra/github-readme-stats)
 ![Eiaton's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eiaton&layout=compact&hide_border=true&langs_count=10)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
