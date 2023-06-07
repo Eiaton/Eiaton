@@ -1,7 +1,6 @@
 [![Eiaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiaton)](https://github.com/anuraghazra/github-readme-stats)
 ![Eiaton's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eiaton&layout=compact&hide_border=true&langs_count=10)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 <!--
 **Eiaton/Eiaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
